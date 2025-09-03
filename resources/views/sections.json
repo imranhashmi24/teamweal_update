@@ -1,0 +1,742 @@
+{
+    "hero_section": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Hero Section",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1920x656"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "heading": "text",
+            "heading_ar": "text",
+            "description": "text",
+            "description_ar": "text"
+        }
+    },
+    "investment_opportunities": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Investment Opportunities",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "700x400"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "sub_title": "text",
+            "sub_title_ar": "text"
+        }
+    },
+    "browse_by_category": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Browse by Category",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "40x40"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "digital_marketing": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Digital marketing by providing",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "40x40"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "why_finance_incubator": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Why Finance Incubator",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "700x400"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "sub_title": "text",
+            "sub_title_ar": "text"
+        }
+    },
+    "what_makes_us_unique": {
+        "builder": true,
+        "no_selection": true,
+        "name": "What Makes Us Unique",
+        "content": {
+            "images": {
+                "image_left": {
+                    "size": "567x400"
+                },
+                "image_right": {
+                    "size": "346x270"
+                }
+            },
+            "title": "text",
+            "title_ar": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "40x40"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "smart_settlement": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Smart Settlement",
+        "content": {
+            "images": {
+                "image_left": {
+                    "size": "567x400"
+                },
+                "image_right": {
+                    "size": "346x270"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "sub_title": "text",
+            "sub_title_ar": "text",
+            "heading": "text",
+            "heading_ar": "text"
+        },
+        "element": {
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "subscribe": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Subscribe to Our Newsletter",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "676x450"
+                }
+            },
+            "heading": "text",
+            "heading_ar": "text",
+            "title": "text",
+            "title_ar": "text"
+        }
+    },
+    "digital_marketing_for_financial_services": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Digital marketing for financial services",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "300x210"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "traditional_marketing": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Traditional Marketing",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "300x210"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+
+    "investment_opportunities_top": {
+        "builder": true,
+        "no_selection": false,
+        "name": "investment opportunities top",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "651x400"
+                }
+            },
+            "heading": "text",
+            "heading_ar": "text",
+            "title": "text",
+            "title_ar": "text"
+        }
+    },
+    "create_investor_account": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Create Investor Account",
+        "content": {
+            "images": {
+                "image_left": {
+                    "size": "700x400"
+                },
+                "image_right": {
+                    "size": "412x313"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "sub_title": "text",
+            "sub_title_ar": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "25x25"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "embedded_finance": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Embedded Finance",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "700x400"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "sub_title": "text",
+            "sub_title_ar": "text"
+        },
+        "element": {
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "embedded_finance_product_solutions": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Embedded Financial Product Solutions",
+        "element": {
+            "title": "text",
+            "title_ar": "text",
+            "sub_title": "text",
+            "sub_title_ar": "text",
+            "modal": true
+        }
+    },
+    "marketing": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Marketing",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "300x210"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "smart_collection": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Manage your financial",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "700x400"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "sub_title": "text",
+            "sub_title_ar": "text"
+        }
+    },
+    "services_offered": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Services Offered",
+        "element": {
+            "title": "text",
+            "title_ar": "text",
+            "sub_title": "text",
+            "sub_title_ar": "text",
+            "modal": true
+        }
+    },
+    "who_can_benefit": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Who Can Benefit",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "700x400"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "sub_title": "text",
+            "sub_title_ar": "text"
+        },
+        "element": {
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "open_banking_services": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Open Banking Services",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "700x400"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "sub_title": "text",
+            "sub_title_ar": "text"
+        }
+    },
+    "our_services": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Our Services Open Banking Page",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "40x40"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "sub_title": "text",
+            "sub_title_ar": "text",
+            "modal": true
+        }
+    },
+    "target_audience": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Target Audience",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "40x40"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "ready_to_build": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Ready to Build",
+        "content": {
+            "title": "text",
+            "title_ar": "text",
+            "sub_title": "text",
+            "sub_title_ar": "text"
+        }
+    },
+    "about_us": {
+        "builder": true,
+        "no_selection": true,
+        "name": "About Us",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "650x400"
+                }
+            },
+            "heading": "text",
+            "heading_ar": "text",
+            "description": "textarea-nic",
+            "description_ar": "textarea-nic"
+        }
+    },
+    "mission_vision": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Our Mission Vision Section",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "120x120"
+                }
+            },
+            "heading": "text",
+            "heading_ar": "text",
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+
+    "values": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Our Values",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "120x120"
+                }
+            },
+            "heading": "text",
+            "heading_ar": "text",
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "what_we_offer": {
+        "builder": true,
+        "no_selection": false,
+        "name": "What We Offer",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "120x120"
+                }
+            },
+            "heading": "text",
+            "heading_ar": "text",
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+
+    "breadcrumb": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Breadcrumb Section",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1350x360"
+                }
+            }
+        }
+    },
+    "app_download": {
+        "builder": true,
+        "no_selection": false,
+        "name": "App Download",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "640x465"
+                },
+                "app_store": {
+                    "size": "180x65"
+                },
+                "google_play": {
+                    "size": "180x65"
+                }
+            },
+            "heading": "text",
+            "heading_ar": "text",
+            "subheading": "text",
+            "subheading_ar": "text",
+            "description": "textarea-nic",
+            "description_ar": "textarea-nic",
+            "app_store_link": "text",
+            "google_store_link": "text"
+        }
+    },
+    "social_media": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Media Section",
+        "element": {
+            "name": "text",
+            "link": "text",
+            "icon": "icon",
+            "modal": true
+        }
+    },
+    "footer": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer Section",
+        "content": {
+            "address": "text",
+            "address_ar": "text",
+            "email": "text",
+            "mobile": "text"
+        }
+    },
+    "about_section": {
+        "builder": true,
+        "no_selection": false,
+        "name": "About Section",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "615x340"
+                }
+            },
+            "heading": "text",
+            "heading_ar": "text",
+            "sub_heading": "text",
+            "sub_heading_ar": "text",
+            "title": "text",
+            "title_ar": "text",
+            "description": "textarea-nic",
+            "description_ar": "textarea-nic"
+        }
+    },
+    "blog": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Blog Section",
+        "content": {
+            "title": "text",
+            "sub_title": "textarea-nic"
+        }
+    },
+    "service_section": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Service Section",
+        "content": {
+            "heading": "text",
+            "heading_ar": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "380x235"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "short_description": "textarea-nic",
+            "short_description_ar": "textarea-nic",
+            "button_url": "text",
+            "modal": false
+        }
+    },
+    "banner": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banner Section",
+        "element": {
+            "images": {
+                "slider": {
+                    "size": "1350x360"
+                },
+                "slider_ar": {
+                    "size": "1350x360"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "description": "textarea-nic",
+            "description_ar": "textarea-nic",
+            "modal": false
+        }
+    },
+    "policy_pages": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "title_ar": "text",
+            "details": "textarea-nic",
+            "details_ar": "textarea-nic",
+            "modal": false
+        }
+    },
+    "target_groups": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Target Groups",
+        "content": {
+            "head": "text",
+            "head_ar": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "60x60"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "training_tracks": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Training Tracks",
+        "content": {
+            "header": "text",
+            "header_ar": "text",
+            "sub_header": "text",
+            "sub_header_ar": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "305x180"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "our_goals": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Our goals",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "40x40"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "our_vision_and_mission": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Our vision",
+        "content": {
+            "images": {
+                "vision": {
+                    "size": "400x400"
+                }
+            },
+            "vision_title": "text",
+            "vision_title_ar": "text",
+            "vision_text": "textarea-nic",
+            "vision_text_ar": "textarea-nic"
+        }
+    },
+    "our_message": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Our Message",
+        "content": {
+            "images": {
+                "message": {
+                    "size": "400x400"
+                }
+            },
+            "message_title": "text",
+            "message_title_ar": "text",
+            "message_text": "textarea-nic",
+            "message_text_ar": "textarea-nic"
+        }
+    },
+    "event_type": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Event type",
+        "element": {
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "audience_type": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Audience type",
+        "element": {
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "event_sector": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Event sector",
+        "element": {
+            "title": "text",
+            "title_ar": "text",
+            "modal": true
+        }
+    },
+    "event_banner": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Event Banner",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1900x250"
+                }
+            },
+            "title": "text",
+            "title_ar": "text",
+            "description": "textarea-nic",
+            "description_ar": "textarea-nic"
+        }
+    },
+    "event_news_banner": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Event News Banner",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1900x250"
+                }
+            },
+            "title": "text",
+            "title_ar": "text"
+        }
+    }
+}
